@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <uday> -- <Data Engineer> -- <@udaymankena>
 
 # THANKS
 
