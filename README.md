@@ -23,6 +23,8 @@ the local file system
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull requests for review
+
 ### Copyright
 
 2014 Git.Training.
